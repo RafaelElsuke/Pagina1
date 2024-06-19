@@ -1,0 +1,41 @@
+body{
+    background-color:black;
+}
+h1{
+    text-align: center;
+    color:#f56942;
+}
+h2{
+    color: #f56942;
+}
+.navbar{
+    background-color:#f56942;
+}
+footer {
+	background-color: #f56942;
+	color: #fff;
+	padding: 70px;
+	text-align: center;
+	margin-top: 10px;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+li {
+	display: inline-block;
+	margin: 0 10px;
+}
+
+a {
+	color: #fff;
+	text-decoration: none;
+}
+.conteiner{
+    margin: 0 auto;
+    width: 50%;
+    padding: 0 0 20px;
+}
